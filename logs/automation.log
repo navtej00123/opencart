@@ -1,0 +1,133 @@
+12:56:35.088 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
+12:56:35.094 [TestNG-tests-1] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
+12:56:35.094 [TestNG-tests-1] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
+12:56:35.113 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
+12:56:35.234 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
+12:56:35.884 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
+12:56:36.339 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
+12:57:25.734 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
+12:57:25.739 [TestNG-tests-1] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
+12:57:25.739 [TestNG-tests-1] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
+12:57:25.757 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
+12:57:25.830 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
+12:57:26.677 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
+12:57:27.762 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
+12:57:30.448 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
+12:57:30.449 [TestNG-tests-2] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
+12:57:30.449 [TestNG-tests-2] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
+12:57:30.449 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
+12:57:30.533 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
+12:57:37.390 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
+12:57:37.870 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
+12:58:54.975 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
+12:58:54.976 [TestNG-tests-2] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
+12:58:54.976 [TestNG-tests-2] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
+12:58:54.976 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
+12:58:55.232 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
+12:58:57.052 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
+12:58:57.408 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
+11:31:14.666 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
+11:31:14.670 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
+11:31:14.670 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
+11:31:14.693 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
+11:31:14.801 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
+11:31:15.294 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
+11:31:15.892 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
+11:31:51.713 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
+11:31:51.716 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
+11:31:51.717 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
+11:31:51.741 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
+11:31:51.831 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
+11:31:54.182 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
+11:31:54.915 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
+11:33:50.407 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
+11:33:50.413 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
+11:33:50.413 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
+11:33:50.438 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
+11:33:50.514 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
+11:33:51.310 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
+11:33:51.943 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
+11:34:30.546 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
+11:34:30.556 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
+11:34:30.557 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
+11:34:30.594 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
+11:34:30.697 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
+11:34:32.461 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
+11:34:33.109 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
+11:36:06.788 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
+11:36:06.795 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
+11:36:06.795 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
+11:36:06.819 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
+11:36:06.926 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
+11:36:12.486 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
+11:36:13.250 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
+11:37:22.433 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
+11:37:22.437 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
+11:37:22.437 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
+11:37:22.457 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
+11:37:22.535 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
+11:37:23.140 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
+11:37:23.715 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
+11:41:25.837 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
+11:41:25.841 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
+11:41:25.841 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
+11:41:25.859 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
+11:41:25.948 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
+11:41:26.581 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
+11:41:27.191 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
+11:43:46.643 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
+11:43:46.649 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
+11:43:46.650 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
+11:43:46.674 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
+11:43:46.760 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
+11:43:47.322 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
+11:43:47.975 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
+11:44:05.831 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
+11:44:05.839 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
+11:44:05.839 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
+11:44:05.877 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
+11:44:05.970 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
+11:44:06.465 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
+11:44:07.081 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
+11:44:41.883 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
+11:44:41.891 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
+11:44:41.891 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
+11:44:41.924 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
+11:44:42.011 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
+11:44:42.511 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
+11:44:43.145 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
+11:45:44.028 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
+11:45:44.033 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
+11:45:44.033 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
+11:45:44.070 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
+11:45:44.144 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
+11:45:45.750 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
+11:45:46.359 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
+11:46:52.482 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
+11:46:52.488 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
+11:46:52.488 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
+11:46:52.524 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
+11:46:52.652 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
+11:46:53.394 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
+11:46:54.050 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
+11:47:26.685 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
+11:47:26.685 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
+11:47:26.685 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
+11:47:26.712 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
+11:47:26.796 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
+11:47:27.545 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
+11:47:28.298 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
+11:49:02.855 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
+11:49:02.855 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
+11:49:02.855 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
+11:49:02.898 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
+11:49:02.991 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
+11:49:03.833 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
+11:49:04.495 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
+10:34:20.243 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
+10:34:20.259 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
+10:34:20.259 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
+10:34:20.290 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
+10:34:20.422 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
+10:34:26.910 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
+10:34:27.558 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
