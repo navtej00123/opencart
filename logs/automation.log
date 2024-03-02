@@ -1,133 +1,327 @@
-12:56:35.088 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
-12:56:35.094 [TestNG-tests-1] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
-12:56:35.094 [TestNG-tests-1] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
-12:56:35.113 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
-12:56:35.234 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
-12:56:35.884 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
-12:56:36.339 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
-12:57:25.734 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
-12:57:25.739 [TestNG-tests-1] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
-12:57:25.739 [TestNG-tests-1] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
-12:57:25.757 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
-12:57:25.830 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
-12:57:26.677 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
-12:57:27.762 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
-12:57:30.448 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
-12:57:30.449 [TestNG-tests-2] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
-12:57:30.449 [TestNG-tests-2] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
-12:57:30.449 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
-12:57:30.533 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
-12:57:37.390 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
-12:57:37.870 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
-12:58:54.975 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
-12:58:54.976 [TestNG-tests-2] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
-12:58:54.976 [TestNG-tests-2] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
-12:58:54.976 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
-12:58:55.232 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
-12:58:57.052 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
-12:58:57.408 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
-11:31:14.666 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
-11:31:14.670 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
-11:31:14.670 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
-11:31:14.693 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
-11:31:14.801 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
-11:31:15.294 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
-11:31:15.892 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
-11:31:51.713 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
-11:31:51.716 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
-11:31:51.717 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
-11:31:51.741 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
-11:31:51.831 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
-11:31:54.182 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
-11:31:54.915 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
-11:33:50.407 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
-11:33:50.413 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
-11:33:50.413 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
-11:33:50.438 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
-11:33:50.514 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
-11:33:51.310 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
-11:33:51.943 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
-11:34:30.546 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
-11:34:30.556 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
-11:34:30.557 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
-11:34:30.594 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
-11:34:30.697 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
-11:34:32.461 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
-11:34:33.109 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
-11:36:06.788 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
-11:36:06.795 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
-11:36:06.795 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
-11:36:06.819 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
-11:36:06.926 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
-11:36:12.486 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
-11:36:13.250 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
-11:37:22.433 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
-11:37:22.437 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
-11:37:22.437 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
-11:37:22.457 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
-11:37:22.535 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
-11:37:23.140 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
-11:37:23.715 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
-11:41:25.837 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
-11:41:25.841 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
-11:41:25.841 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
-11:41:25.859 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
-11:41:25.948 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
-11:41:26.581 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
-11:41:27.191 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
-11:43:46.643 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
-11:43:46.649 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
-11:43:46.650 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
-11:43:46.674 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
-11:43:46.760 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
-11:43:47.322 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
-11:43:47.975 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
-11:44:05.831 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
-11:44:05.839 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
-11:44:05.839 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
-11:44:05.877 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
-11:44:05.970 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
-11:44:06.465 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
-11:44:07.081 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
-11:44:41.883 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
-11:44:41.891 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
-11:44:41.891 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
-11:44:41.924 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
-11:44:42.011 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
-11:44:42.511 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
-11:44:43.145 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
-11:45:44.028 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
-11:45:44.033 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
-11:45:44.033 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
-11:45:44.070 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
-11:45:44.144 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
-11:45:45.750 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
-11:45:46.359 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
-11:46:52.482 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
-11:46:52.488 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
-11:46:52.488 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
-11:46:52.524 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
-11:46:52.652 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
-11:46:53.394 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
-11:46:54.050 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
-11:47:26.685 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
-11:47:26.685 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
-11:47:26.685 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
-11:47:26.712 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
-11:47:26.796 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
-11:47:27.545 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
-11:47:28.298 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
-11:49:02.855 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
-11:49:02.855 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
-11:49:02.855 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
-11:49:02.898 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
-11:49:02.991 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
-11:49:03.833 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
-11:49:04.495 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
-10:34:20.243 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
-10:34:20.259 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
-10:34:20.259 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
-10:34:20.290 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
-10:34:20.422 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
-10:34:26.910 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
-10:34:27.558 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
+11:32:49.738 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:32:49.795 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:32:49.798 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:32:49.800 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:32:49.831 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:32:49.868 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:32:49.870 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:32:49.873 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:32:49.903 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:32:49.932 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:32:49.935 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:32:49.938 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:32:49.964 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:32:49.997 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:32:49.999 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:32:49.999 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:32:50.015 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:32:50.044 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:32:50.046 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:32:50.048 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:32:50.062 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:32:50.082 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:32:50.084 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:32:50.085 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:32:50.100 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:32:50.115 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:32:50.116 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:32:50.117 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:32:50.128 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:32:50.144 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:32:50.146 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:32:50.147 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:32:50.155 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:32:50.167 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:32:50.168 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:32:50.169 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:32:50.180 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:32:50.193 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:32:50.194 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:32:50.195 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:32:50.205 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:32:50.225 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:32:50.226 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:32:50.228 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:32:50.254 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:32:50.287 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:32:50.288 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:32:50.290 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:32:50.310 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:32:50.331 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest .....
+11:32:52.654 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest ...
+11:32:52.661 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest .....
+11:32:54.190 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest ...
+11:32:54.198 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest .....
+11:32:55.800 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest ...
+11:32:55.807 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest .....
+11:33:06.867 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest ...
+11:33:06.899 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest .....
+11:33:08.564 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest ...
+11:33:41.226 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
+11:33:41.228 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
+11:33:41.228 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
+11:33:41.239 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
+11:33:41.287 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
+11:33:41.910 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
+11:33:42.357 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
+11:33:59.031 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:33:59.035 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:33:59.037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:33:59.179 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+11:33:59.181 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:33:59.181 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:33:59.182 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:33:59.182 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:33:59.184 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:33:59.192 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:33:59.193 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:33:59.197 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:33:59.198 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:33:59.200 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:33:59.200 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:33:59.201 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:33:59.202 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+11:33:59.251 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+11:33:59.251 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
+11:33:59.296 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+11:33:59.303 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+11:33:59.307 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+11:33:59.309 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+11:33:59.314 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+11:33:59.317 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+11:33:59.318 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+11:33:59.321 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+11:33:59.325 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+11:33:59.329 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+11:33:59.332 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+11:33:59.334 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctdxfsb26atype
+11:33:59.337 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
+11:33:59.340 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+11:33:59.344 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+11:33:59.352 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+11:33:59.367 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:33:59.367 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+11:33:59.373 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+11:33:59.378 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+11:33:59.381 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+11:33:59.383 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+11:33:59.385 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+11:33:59.390 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+11:33:59.398 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+11:33:59.402 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
+11:33:59.416 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+11:33:59.419 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+11:33:59.423 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+11:33:59.432 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+11:33:59.439 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlinks6416type
+11:33:59.445 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlink0c85type
+11:33:59.451 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+11:33:59.460 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:33:59.461 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:33:59.462 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:33:59.473 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:33:59.487 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:33:59.488 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:33:59.489 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:33:59.500 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:33:59.509 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+11:33:59.520 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:33:59.521 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:33:59.521 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:33:59.530 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:33:59.543 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:33:59.544 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:33:59.545 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:33:59.551 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:33:59.562 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:33:59.563 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:33:59.564 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:33:59.571 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:33:59.583 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:33:59.584 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:33:59.585 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:33:59.593 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:33:59.604 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:33:59.605 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:33:59.606 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:33:59.614 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:33:59.625 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:33:59.626 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:33:59.627 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:33:59.635 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:33:59.644 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:33:59.644 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:33:59.645 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:33:59.652 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:33:59.661 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:33:59.661 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:33:59.662 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:33:59.669 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:33:59.680 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:33:59.680 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:33:59.681 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:33:59.686 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:33:59.693 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:33:59.693 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:33:59.694 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:33:59.700 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:33:59.708 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:33:59.709 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:33:59.710 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:33:59.716 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:33:59.725 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:33:59.725 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:33:59.726 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:33:59.735 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:33:59.744 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:33:59.744 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:33:59.745 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:33:59.754 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:33:59.765 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:33:59.765 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:33:59.766 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:33:59.772 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:33:59.779 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest .....
+11:34:02.952 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest ...
+11:34:02.953 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest .....
+11:34:04.585 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest ...
+11:34:04.586 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest .....
+11:34:06.638 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest ...
+11:34:06.639 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest .....
+11:34:18.378 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest ...
+11:34:18.378 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest .....
+11:34:19.469 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest ...
+11:34:58.009 [main] INFO  testCases.Tc_001_AccountRegistrationPage - starting Tc_001_AccountRegistration
+11:34:58.013 [main] DEBUG testCases.Tc_001_AccountRegistrationPage - capturing debug logs
+11:34:58.013 [main] TRACE testCases.Tc_001_AccountRegistrationPage - capturing trace logs..........
+11:34:58.027 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on my account
+11:34:58.088 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on registration
+11:34:58.717 [main] INFO  testCases.Tc_001_AccountRegistrationPage - passing user details
+11:34:59.157 [main] INFO  testCases.Tc_001_AccountRegistrationPage - clicking on continue
+11:35:11.889 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:35:11.893 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:35:11.896 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:35:12.065 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+11:35:12.067 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:35:12.067 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:35:12.067 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:35:12.068 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:35:12.068 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:35:12.076 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:35:12.076 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:35:12.080 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:35:12.080 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:35:12.081 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:35:12.082 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:35:12.082 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:35:12.083 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+11:35:12.122 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+11:35:12.123 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
+11:35:12.161 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+11:35:12.166 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+11:35:12.168 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+11:35:12.170 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+11:35:12.173 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+11:35:12.174 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+11:35:12.176 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+11:35:12.178 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+11:35:12.180 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+11:35:12.183 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+11:35:12.185 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+11:35:12.185 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctdxfsb26atype
+11:35:12.187 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
+11:35:12.190 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+11:35:12.192 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+11:35:12.198 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+11:35:12.209 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:35:12.209 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+11:35:12.213 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+11:35:12.216 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+11:35:12.219 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+11:35:12.220 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+11:35:12.222 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+11:35:12.225 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+11:35:12.232 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+11:35:12.234 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
+11:35:12.245 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+11:35:12.248 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+11:35:12.251 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+11:35:12.256 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+11:35:12.263 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlinks6416type
+11:35:12.266 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlink0c85type
+11:35:12.270 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+11:35:12.281 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:35:12.282 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:35:12.283 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:35:12.294 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:35:12.307 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:35:12.308 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:35:12.309 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:35:12.320 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:35:12.330 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+11:35:12.341 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:35:12.342 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:35:12.343 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:35:12.351 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:35:12.363 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:35:12.364 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:35:12.365 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:35:12.374 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:35:12.387 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:35:12.387 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:35:12.388 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:35:12.395 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:35:12.406 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:35:12.407 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:35:12.408 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:35:12.415 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:35:12.427 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:35:12.427 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:35:12.428 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:35:12.436 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:35:12.446 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:35:12.447 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:35:12.447 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:35:12.454 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:35:12.461 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:35:12.462 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:35:12.463 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:35:12.470 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:35:12.478 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:35:12.478 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:35:12.479 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:35:12.483 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:35:12.490 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:35:12.490 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:35:12.491 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:35:12.496 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:35:12.502 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:35:12.503 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:35:12.503 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:35:12.509 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:35:12.516 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:35:12.516 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:35:12.517 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:35:12.523 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:35:12.530 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:35:12.530 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:35:12.531 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:35:12.535 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:35:12.549 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:35:12.550 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:35:12.550 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:35:12.559 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:35:12.568 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:35:12.568 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:35:12.569 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:35:12.575 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:35:12.581 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest .....
+11:35:14.141 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest ...
+11:35:14.142 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest .....
+11:35:15.284 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest ...
+11:35:15.286 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest .....
+11:35:16.306 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest ...
+11:35:16.307 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest .....
+11:35:26.990 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest ...
+11:35:26.990 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest .....
+11:35:28.020 [main] INFO  testCases.Tc_003_loginDDT - Starting TC_003_LoginDataDrivenTest ...

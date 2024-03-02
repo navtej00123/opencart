@@ -8,6 +8,8 @@
 	  <parameter name="browser" value="edge"></parameter>
     <classes>
       <class name="testCases.Tc_001_AccountRegistrationPage"/>
+      <class name="testCases.Tc_002_logintest"></class>
+      <class name="testCases.Tc_003_loginDDT"></class>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
